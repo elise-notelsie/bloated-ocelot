@@ -1,1 +1,16 @@
+body {
+    color:peachpuff;
+}
+
+h1 {
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:darkred;
+}
+
+p {
+    text-align:center;
+    font-family:'Courier New', Courier, monospace;
+    color:indigo;
+}
 
