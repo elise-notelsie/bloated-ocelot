@@ -6,11 +6,12 @@ h1 {
     text-align: center;
     font-family:Georgia, 'Times New Roman', Times, serif;
     color:darkred;
+    font-weight: bold;
 }
 
 p {
     text-align:center;
     font-family:'Courier New', Courier, monospace;
-    color:indigo;
+    font-weight:bold;
 }
 
